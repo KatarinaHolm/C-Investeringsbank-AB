@@ -5,6 +5,7 @@ BankApp is a console-based C# program that simulates a simple banking system.
 Users can log in as either a Customer or an Administrator (Admin) to perform various banking operations such as creating accounts, making transfers, managing loans, or administrating users.
 The program focuses on structure, user flow, and logic, and uses multiple classes that work together to create a clear and modular codebase. 
 BankApp is divided into several class groups based on their functionality: user management, accounts and economics, menus, and transactions.
+[About this project](about.md)
 
 # 🧩 Structure and Classes
 
